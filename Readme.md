@@ -29,3 +29,9 @@ You can use or customize this code for your own projects or websites. Feel free 
 
 1. Clone the repository:
    git clone https://github.com/learnsomethingdifferent/Website-Price-Card.git
+
+## Contributing
+If you would like to contribute to this project, feel free to open an issue or submit a pull request. Your contributions are welcome!
+
+## License
+This project is licensed under the MIT License.
